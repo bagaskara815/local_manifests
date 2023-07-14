@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remove-project path="hardware/qcom/gps" />
   <remove-project path="external/tinycompress" />
   <project path="external/tinycompress" name="arrowos/android_external_tinycompress" remote="github" revision="arrow-13" />
   <project path="vendor/qcom/opensource/audio-hal/st-hal" name="arrowos/android_vendor_qcom_opensource_audio-hal_st-hal" remote="github" revision="arrow-13.0" />
