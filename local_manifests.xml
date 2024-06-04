@@ -2,6 +2,6 @@
 <manifest>
   <project path="device/xiaomi/vayu" name="bagaskara815/device_xiaomi_vayu" remote="github" revision="14-derp" />
   <project path="vendor/xiaomi/vayu" name="bagaskara815/vendor_xiaomi_vayu" remote="github" revision="14-derp" />
-  <project path="kernel/xiaomi/vayu" name="bagaskara815/kernel_xiaomi_vayu" remote="github" revision="lineage-20" />
+  <project path="kernel/xiaomi/vayu" name="bagaskara815/kernel_xiaomi_vayu" remote="github" revision="14-derp" />
   <project path="hardware/xiaomi" name="bagaskara815/hardware_xiaomi" remote="github" revision="lineage-21" />
 </manifest>
