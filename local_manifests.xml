@@ -4,4 +4,5 @@
   <project path="vendor/xiaomi/vayu" name="bagaskara815/vendor_xiaomi_vayu" remote="github" revision="16-derp" />
   <project path="kernel/xiaomi/vayu" name="bagaskara815/kernel_xiaomi_vayu" remote="github" revision="rekt" />
   <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="github" revision="lineage-23.2" />
+  <project path="vendor/xiaomi/vayu-camera" name="sm8150-playground/vendor_xiaomi_vayu-camera" remote="github" revision="seventeen" />
 </manifest>
